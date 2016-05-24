@@ -1,0 +1,15 @@
+﻿body{
+	font-family:Arial, Helvetica, sans-serif;
+	
+	background-color:#FFCCCC;
+	
+}
+#menu{
+	background:Highlight;
+}
+nav a{
+	color:red;
+}
+.ct1{
+	color:red
+}
